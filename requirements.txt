@@ -1,0 +1,13 @@
+requests
+beautifulsoup4
+psycopg2
+SQLAlchemy
+click
+selenium
+pandas
+numpy
+nltk
+spacy
+scikit-learn
+tensorflow
+jupyter

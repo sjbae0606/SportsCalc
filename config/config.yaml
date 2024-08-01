@@ -1,0 +1,14 @@
+api:
+  key: "0f6fbe7e764a74faaa27b74aaafcd66c"
+  url: "https://api.the-odds-api.com/v4/sports/"
+
+database:
+  host: "localhost"
+  port: 5434
+  user: "your_db_user"
+  password: "your_db_password"
+  name: "sports_betting"
+
+logging:
+  level: "INFO"
+  file: "data/logs/app.log"
